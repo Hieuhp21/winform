@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\study\bai1\bai1\bin\Debug\net6.0-windows\bai1.exe
+C:\Users\DELL\Desktop\study\bai1\bai1\bin\Debug\net6.0-windows\bai1.deps.json
+C:\Users\DELL\Desktop\study\bai1\bai1\bin\Debug\net6.0-windows\bai1.runtimeconfig.json
+C:\Users\DELL\Desktop\study\bai1\bai1\bin\Debug\net6.0-windows\bai1.dll
+C:\Users\DELL\Desktop\study\bai1\bai1\bin\Debug\net6.0-windows\bai1.pdb
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.Form1.resources
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.dll
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\refint\bai1.dll
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.pdb
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\bai1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\study\bai1\bai1\obj\Debug\net6.0-windows\ref\bai1.dll

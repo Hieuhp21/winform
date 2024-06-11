@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\study\winf1\winf1\bin\Debug\net6.0-windows\winf1.exe
+C:\Users\DELL\Desktop\study\winf1\winf1\bin\Debug\net6.0-windows\winf1.deps.json
+C:\Users\DELL\Desktop\study\winf1\winf1\bin\Debug\net6.0-windows\winf1.runtimeconfig.json
+C:\Users\DELL\Desktop\study\winf1\winf1\bin\Debug\net6.0-windows\winf1.dll
+C:\Users\DELL\Desktop\study\winf1\winf1\bin\Debug\net6.0-windows\winf1.pdb
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.Form1.resources
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.dll
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\refint\winf1.dll
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.pdb
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\ref\winf1.dll
+C:\Users\DELL\Desktop\study\winf1\winf1\obj\Debug\net6.0-windows\winf1.Properties.Resources.resources

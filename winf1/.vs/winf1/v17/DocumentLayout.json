@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\study\\winf1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\models\\aclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\models\\aclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\winf1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\winf1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|c:\\users\\dell\\desktop\\study\\winf1\\winf1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1196699-C3DF-49DA-AB71-ED9C3532D0C4}|winf1\\winf1.csproj|solutionrelative:winf1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.cs",
+              "RelativeDocumentMoniker": "winf1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.cs",
+              "RelativeToolTip": "winf1\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA7wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:39.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AClass.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\models\\AClass.cs",
+              "RelativeDocumentMoniker": "winf1\\models\\AClass.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\models\\AClass.cs",
+              "RelativeToolTip": "winf1\\models\\AClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:36:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "winf1\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "winf1\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:57:00.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\models\\Student.cs",
+              "RelativeDocumentMoniker": "winf1\\models\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\models\\Student.cs",
+              "RelativeToolTip": "winf1\\models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:43:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "winf1",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\winf1.csproj",
+              "RelativeDocumentMoniker": "winf1\\winf1.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\winf1.csproj",
+              "RelativeToolTip": "winf1\\winf1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T08:42:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.cs",
+              "RelativeDocumentMoniker": "winf1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.cs [Design]",
+              "RelativeToolTip": "winf1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:20:44.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "winf1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Form1.Designer.cs",
+              "RelativeToolTip": "winf1\\Form1.Designer.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAYwG0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:58:30.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Program.cs",
+              "RelativeDocumentMoniker": "winf1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\winf1\\winf1\\Program.cs",
+              "RelativeToolTip": "winf1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:54:09.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
