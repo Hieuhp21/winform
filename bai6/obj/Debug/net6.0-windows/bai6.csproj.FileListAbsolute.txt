@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.Form1.resources
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.AssemblyInfo.cs
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.sourcelink.json
+C:\Users\DELL\Desktop\study\bai6\bin\Debug\net6.0-windows\bai6.exe
+C:\Users\DELL\Desktop\study\bai6\bin\Debug\net6.0-windows\bai6.deps.json
+C:\Users\DELL\Desktop\study\bai6\bin\Debug\net6.0-windows\bai6.runtimeconfig.json
+C:\Users\DELL\Desktop\study\bai6\bin\Debug\net6.0-windows\bai6.dll
+C:\Users\DELL\Desktop\study\bai6\bin\Debug\net6.0-windows\bai6.pdb
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.dll
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\refint\bai6.dll
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.pdb
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\bai6.genruntimeconfig.cache
+C:\Users\DELL\Desktop\study\bai6\obj\Debug\net6.0-windows\ref\bai6.dll

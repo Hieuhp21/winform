@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\bai5\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\study\\bai5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|c:\\users\\dell\\source\\repos\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|c:\\users\\dell\\desktop\\study\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|solutionrelative:bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|c:\\users\\dell\\source\\repos\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|C:\\Users\\DELL\\Desktop\\study\\bai5\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B055AEAB-3867-429C-B4C7-F19ADF8500B4}|bai5\\bai5.csproj|solutionrelative:bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\bai5\\bai5\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\bai5\\bai5\\Form1.cs",
               "RelativeDocumentMoniker": "bai5\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\bai5\\bai5\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\bai5\\bai5\\Form1.cs",
               "RelativeToolTip": "bai5\\Form1.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAvwGEAAAAfAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA9wBcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:37:45.608Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\bai5\\bai5\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\study\\bai5\\bai5\\Form1.cs",
               "RelativeDocumentMoniker": "bai5\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\bai5\\bai5\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\bai5\\bai5\\Form1.cs [Design]",
               "RelativeToolTip": "bai5\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T09:41:20.782Z",

@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\study\bai13\bin\Debug\net6.0-windows\bai13.exe
+C:\Users\DELL\Desktop\study\bai13\bin\Debug\net6.0-windows\bai13.deps.json
+C:\Users\DELL\Desktop\study\bai13\bin\Debug\net6.0-windows\bai13.runtimeconfig.json
+C:\Users\DELL\Desktop\study\bai13\bin\Debug\net6.0-windows\bai13.dll
+C:\Users\DELL\Desktop\study\bai13\bin\Debug\net6.0-windows\bai13.pdb
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.Form1.resources
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.AssemblyInfo.cs
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.sourcelink.json
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.dll
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\refint\bai13.dll
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.pdb
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\bai13.genruntimeconfig.cache
+C:\Users\DELL\Desktop\study\bai13\obj\Debug\net6.0-windows\ref\bai13.dll

@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "bai1\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\bai1\\bai1\\Form1.Designer.cs",
               "RelativeToolTip": "bai1\\Form1.Designer.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAtwF8AAAA+AAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwFYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:47:25.656Z"
+              "WhenOpened": "2024-06-11T02:47:25.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +59,8 @@
               "ToolTip": "C:\\Users\\DELL\\Desktop\\study\\bai1\\bai1\\Form1.cs [Design]",
               "RelativeToolTip": "bai1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T02:33:30.102Z"
+              "WhenOpened": "2024-06-11T02:33:30.102Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
